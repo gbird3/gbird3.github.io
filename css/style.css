@@ -55,3 +55,11 @@ p {
 footer.page-footer {
   margin: 0;
 }
+ 
+.social-icons > a {
+  color: black;
+}
+
+.social-icon {
+  padding: 10px;
+}
