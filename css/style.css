@@ -64,3 +64,9 @@ footer.page-footer {
 .social-icons {
   padding: 15px;
 }
+
+.profile {
+  margin-top: 100px;
+  padding-right: 10px;
+  margin-left: -15px;
+}
