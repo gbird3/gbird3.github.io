@@ -56,7 +56,7 @@ p {
 footer.page-footer {
   margin: 0;
 }
- 
+
 .social-icons > a {
   color: black;
 }
@@ -69,4 +69,16 @@ footer.page-footer {
   margin-top: 100px;
   padding-right: 10px;
   margin-left: -15px;
+}
+
+.body-background {
+  height: 100vh;
+  width: 100%;
+  background-color: #6b7073;
+  text-align: center;
+}
+
+.web-pic {
+  height: 14rem;
+  width: 20rem;
 }
